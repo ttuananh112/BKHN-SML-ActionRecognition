@@ -1,0 +1,6 @@
+-1: invalid
+0: level walk
+1: upstairs
+2: downstairs
+3: slope up
+4: slope down
